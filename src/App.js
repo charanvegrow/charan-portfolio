@@ -13,7 +13,7 @@ function App() {
 
           <div className="contact-info">
             <p>📍 Bengaluru, India</p>
-            <p>📞 +91-9491320891 | ✉️ <a href="mailto:charan.arch@gmail.com">charan.arch@gmail.com</a></p>
+            <p>✉️ <a href="mailto:charan.arch@gmail.com">charan.arch@gmail.com</a></p>
             <p>🔗 <a href="https://linkedin.com/in/sai-charan-k" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://saicharankummetha.medium.com" target="_blank" rel="noopener noreferrer">Blog</a> | <a href="https://github.com/charanvegrow" target="_blank" rel="noopener noreferrer">GitHub</a></p>
           </div>
         </div>
