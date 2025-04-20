@@ -12,6 +12,7 @@ AI-native Product Manager with 4 years of experience, including 1 year in Produc
 
 ## 🎓 Education
 
+
 **Bachelors (Honors, in Architecture)** | Indian Institute of Technology Kharagpur, 2021
 Relevant Courses: Data Structures, Algorithms, AI Fundamentals, Entrepreneurship & Innovation
 
