@@ -12,10 +12,12 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
+      - name: Checkout master branch 🛎️
         uses: actions/checkout@v4
         with:
+          ref: master
           persist-credentials: false
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -32,9 +34,13 @@ jobs:
       - name: Create .nojekyll file
         run: touch build/.nojekyll
 
+      - name: Add timestamp to force new deployment
+        run: 'echo "Build timestamp: $(date)" > build/build-timestamp.txt'
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: build
           branch: gh-pages
           clean: true
+          force: true
