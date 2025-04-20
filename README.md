@@ -97,3 +97,4 @@ Jan 2020 – Jun 2020 | Hyderabad, India
 ## Interests
 
 AI for operations, AI-Native SaaS platforms, Voice automation, PM+Tech hybrid leadership, Emerging market innovation
+# Trigger rebuild
