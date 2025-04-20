@@ -216,7 +216,7 @@ function App() {
       </header>
 
       <footer className="App-footer">
-        <p>© 2025 Sai Charan Kummetha | Built with React</p>
+        <p>© 2024 Sai Charan Kummetha | Built with React | Last updated: April 20, 2024</p>
       </footer>
     </div>
   );
