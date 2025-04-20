@@ -1,31 +1,50 @@
 # Sai Charan Kummetha - Professional Portfolio
 
-This is my professional portfolio website showcasing my experience as a Product Manager specializing in AI & Automation, along with my background in software engineering.
+## About Me
 
-## Features
+I am a Product Manager specializing in AI & Automation at Vegrow, with a strong background in software engineering. My expertise spans across product management, AI/ML implementation, and full-stack development.
 
-- Interactive, responsive design
-- Detailed work experience and skills
-- Educational background and achievements
-- Contact information and social links
+## Professional Experience
 
-## Technologies Used
+- **Product Manager (AI & Automation)** at Vegrow
+  - Led the development of AI-powered pricing algorithms that improved profit margins by 12%
+  - Implemented automated quality assessment systems using computer vision
+  - Managed cross-functional teams to deliver complex technical solutions
 
-- React.js
-- CSS3 with modern features
-- GitHub Pages for hosting
+- **Software Development Engineer** at Vegrow
+  - Developed scalable backend systems using Node.js and MongoDB
+  - Created responsive frontend interfaces with React
+  - Implemented CI/CD pipelines for streamlined deployment
 
-## Development
+- **Software Engineer** at LivSYT
+  - Built web applications using modern JavaScript frameworks
+  - Collaborated with design teams to create intuitive user experiences
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **Computational Design Intern** at Arth Design Build
+  - Applied computational methods to architectural design problems
+  - Developed parametric modeling solutions
 
-### Available Scripts
+## Education
 
-- `npm start` - Runs the app in development mode
-- `npm test` - Launches the test runner
-- `npm run build` - Builds the app for production
-- `npm run deploy` - Deploys the app to GitHub Pages
+- B.Tech + M.Tech (Dual Degree) in Civil Engineering from IIT Kharagpur
+- Specialized in Structural Engineering with a focus on computational methods
 
-## Visit the Site
+## Skills
 
-The portfolio is live at: [https://charanvegrow.github.io/charan-portfolio/](https://charanvegrow.github.io/charan-portfolio/)
+### Technical Skills
+- **Programming Languages**: JavaScript, Python, Java
+- **Web Technologies**: React.js, Node.js, HTML5, CSS3
+- **Databases**: MongoDB, PostgreSQL
+- **AI/ML**: Computer Vision, Predictive Analytics
+- **DevOps**: CI/CD, Docker, AWS
+
+### Management Skills
+- Product Strategy & Roadmapping
+- Agile Project Management
+- Cross-functional Team Leadership
+- Data-driven Decision Making
+- User Experience Design
+
+## Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/saicharankummetha/) or via email at sai.charan@vegrow.in
