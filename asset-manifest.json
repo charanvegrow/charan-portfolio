@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/charan-portfolio/static/css/main.26263743.css",
+    "main.js": "/charan-portfolio/static/js/main.874a25ca.js",
+    "static/js/453.aa835515.chunk.js": "/charan-portfolio/static/js/453.aa835515.chunk.js",
+    "index.html": "/charan-portfolio/index.html",
+    "main.26263743.css.map": "/charan-portfolio/static/css/main.26263743.css.map",
+    "main.874a25ca.js.map": "/charan-portfolio/static/js/main.874a25ca.js.map",
+    "453.aa835515.chunk.js.map": "/charan-portfolio/static/js/453.aa835515.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26263743.css",
+    "static/js/main.874a25ca.js"
+  ]
+}
