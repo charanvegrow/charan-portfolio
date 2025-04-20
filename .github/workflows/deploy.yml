@@ -42,5 +42,7 @@ jobs:
         with:
           folder: build
           branch: gh-pages
+          clean-exclude: ""
           clean: true
           force: true
+          single-commit: true
